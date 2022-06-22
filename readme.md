@@ -1,10 +1,10 @@
-# Brian Maringa Portfolio.
+# Hulda Sifuna Portfolio.
 
 The project is a portfolio for Brian Wabai that shows my about information, what i like, my education background, hobbies and also my past projects with href links for the earlier projects.
 
 ## Author Name.
 
-Brian Maringa Wabai
+Hulda Sifuna
 
 ## Setup Instructions.
 
@@ -18,7 +18,7 @@ on github. All that is needed is an active internet
 connection
 
 ## Project link for live webpage.
-[https://wabai12874.github.io/](https://wabai12874.github.io/)
+[https://huldah.github.io/](https://huldah.github.io/)
 
 ## Contributing
 
@@ -27,7 +27,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 MIT License
 
-Copyright (c) [2021] [Brian Maringa Wabai]
+Copyright (c) [2021] [Huldah Sifuna Khamusafu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
